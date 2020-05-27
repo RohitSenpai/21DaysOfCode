@@ -1,0 +1,25 @@
+While loop is another loop like for loop but unlike for loop it only checks for one condition.
+
+Here, we will use while loop and print a number n's table in reverse order.
+
+Input Format:
+First line of input conatins number of testcases T. For each testcase, there will be one line of input containing a number n.
+
+Output Format:
+For each testcase, print n*10, n*9....n*1.
+
+User Task:
+Your task is to complete the provided function.
+
+Constraints:
+1 <= T <= 10
+1 <= n<= 1000
+
+Input:
+2
+1
+2
+
+Output:
+10 9 8 7 6 5 4 3 2 1
+20 18 16 14 12 10 8 6 4 2
